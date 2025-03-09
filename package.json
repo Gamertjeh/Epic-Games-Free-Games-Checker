@@ -1,0 +1,20 @@
+{
+  "name": "storechecker",
+  "version": "1.0.0",
+  "description": "Pieter Bjorn | Epic Games Free Games Checker",
+  "main": "bot.js",
+
+  "keywords": [
+    "Epic",
+    "Games",
+    "Free",
+    "Games",
+    "Checker"
+  ],
+  "author": "Pieter Bjorn",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.2",
+    "discord.js": "^14.18.0"
+  }
+}
